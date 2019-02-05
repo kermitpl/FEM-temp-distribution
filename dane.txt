@@ -1,0 +1,12 @@
+H = 0.1
+L = 0.1
+nH = 4
+nL = 4
+t0 = 100
+time = 500
+step = 50
+ambientT = 1200
+alfa = 300
+cw = 700
+k = 25
+ro = 7800
